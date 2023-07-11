@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 <h1 align="center">Hi 👋, Myself Ashok Prajapat</h1>
-<h3 align="center">a Software Engineer with some Python & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS, Data structures and Algorithms.</h3>
+<h3 align="center">A Software Engineer with some Python & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS, Data structures and Algorithms.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok-prajapat07&label=Profile%20views&color=0e75b6&style=flat" alt="ashok-prajapat07" /> </p>
