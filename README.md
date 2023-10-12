@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Ashokaprajapat.07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lXrPvmSiwMH15Gj4IBrASlt6OXPgalWr/view?usp=drive_link](https://drive.google.com/file/d/1lXrPvmSiwMH15Gj4IBrASlt6OXPgalWr/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1F2vP6hzsSPedeIk_CgkKf3lOHo2EIrnV/view?usp=sharing](https://drive.google.com/file/d/1F2vP6hzsSPedeIk_CgkKf3lOHo2EIrnV/view?usp=sharing)
 
 - ⚡ Fun fact **I Think i am Funny**
 
